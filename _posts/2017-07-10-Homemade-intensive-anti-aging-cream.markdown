@@ -4,7 +4,7 @@ title:      "Homemade intensive anti-aging cream"
 subtitle:   "Anti-aging night cream"
 date:       2017-07-10 12:00:00
 author:     "Herbalsoaks"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-06.jpg"
 ---
 
 <p>Night creams are wonderful skin healers.
