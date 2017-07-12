@@ -83,7 +83,7 @@ STEP 12: Transfer the cream into sterilized storage containers.</p><br/>
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-sample-image.jpg" alt="Post Sample Image">
 </a>
-<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+<span class="caption text-muted">Anti-aging night cream</span>
 
 
 <p>Placeholder text by <a href="http://herbalsoaks.com/">Herbal Soaks</a>. Photographs by <a href="https://www.pixabay.com">Pixabay</a>.</p>
