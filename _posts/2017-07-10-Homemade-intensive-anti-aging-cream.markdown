@@ -51,7 +51,7 @@ Preservative------1.5%  = 3.75 grams<br/>
  
  
 
-<p>OIL INGREDIENTS<br/>  
+<h2 class="section-heading">OIL INGREDIENTS</h2><br/>  
  
 <blockquote>Extra Virgin Olive oil---7%  = 17.5 grams<br/>  
 Beeswax------------------3%   = 7.5 grams<br/>   
@@ -62,7 +62,7 @@ Vitamin-E----------------0.5% = 1.25 grams<br/>
 ----------------------------------------------------------<br/>  
     TOTAL          = 50 grams<br/>  
 ----------------------------------------------------------<br/>  
- <blockquote><br/>  
+ </blockquote><br/>  
 
 
 
