@@ -5,7 +5,7 @@
  */
 
 body {
-  font-family: 'Lucida Console', 'Times New Roman', serif;
+  font-family: 'Josefin Slab', 'Times New Roman', serif;
   font-size: 20px;
   color: #404040;
 }
@@ -17,11 +17,11 @@ p a {
   text-decoration: underline;
 }
 h1{
-  font-family: 'Josefin Slab', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lucida Console', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 h2{
-  font-family: 'Sacramento', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Julee', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
 h3,
