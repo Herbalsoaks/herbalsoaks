@@ -10,12 +10,6 @@ header-img: "img/post-bg-05.jpg"
 
 <h2>Aloe Vera Serum </h2>
 
-
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-aloe1-image.jpg" alt="Aloevera gel">
-</a>
-<span class="caption text-muted">Aloevera gel</span>
-
 <p>A water based skin serum is light and non-greasy, perfectly suited for everyday use.
 Making a skin serum at home is very simple and has very few ingredients.
 You can use all the ingredients that I use or skip a few or add more according to the needs of your skin.
@@ -25,14 +19,18 @@ Before making any skincare product at home, make sure that you are not allergic 
 
 
 <h2 class="section-heading">Ingredients needed: </h2>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-aloe1-image.jpg" alt="Aloevera gel">
+</a>
+<span class="caption text-muted">Aloevera gel</span>
+<blockquote>1.Aloe Vera gel<br/>
+2.Hyaluronic acid <br/>
+3.Rose water<br/>
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-aloe2-image.jpg" alt="">
 </a>
 <span class="caption text-muted">Rose water</span>
-
-<blockquote>1.Aloe Vera gel<br/>
-2.Hyaluronic acid <br/>
-3.Rose water<br/>
 4.Green tea<br/>
 5.Sodium lactate<br/>
 6.Liquid collagen<br/>
