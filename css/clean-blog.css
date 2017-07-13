@@ -24,7 +24,10 @@ h2{
   font-family: 'Julee', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700;
 }
-h3,
+h3{
+  font-family: 'Lucida Console', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
 h4,
 h5,
 h6 {
