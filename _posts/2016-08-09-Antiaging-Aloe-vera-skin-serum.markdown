@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Anti-ageing Aloe Vera skin serum"
+title:      "Antiageing Aloe Vera skin serum"
 date:       2016-08-09- 12:00:00
 author:     "Herbalsoaks"
 header-img: "img/post-bg-05.jpg"
