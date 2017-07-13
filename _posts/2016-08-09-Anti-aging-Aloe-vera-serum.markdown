@@ -32,6 +32,10 @@ Before making any skincare product at home, make sure that you are not allergic 
 </a>
 <span class="caption text-muted">Rose water</span>
 4.Green tea<br/>
+<a href="#">
+    <img src="{{ site.baseurl }}/img/post-aloe3-image.jpg" alt="">
+</a>
+<span class="caption text-muted">Green tea</span>
 5.Sodium lactate<br/>
 6.Liquid collagen<br/>
 7.Essential oil (any of your choice)<br/>
@@ -45,10 +49,7 @@ Before making any skincare product at home, make sure that you are not allergic 
 
 
 <h2 class="section-heading"> Making the serum:</h2><br/>
-<a href="#">
-    <img src="{{ site.baseurl }}/img/post-aloe3-image.jpg" alt="">
-</a>
-<span class="caption text-muted">Green tea</span>
+
 <blockquote>STEP 1: Sterilize all the equipment and storage jars.<br/>
 
 STEP 2: Extract fresh Aloe Vera gel.<br/>
