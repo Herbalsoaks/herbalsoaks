@@ -18,7 +18,7 @@ This cream is suited for overnight skin soaks. You can use all of the ingredient
 
 
 
-<h2 class="section-heading">FORMULATING THE INGREDIENTS</h2>
+<h2 class="section-heading">Formulating the ingredients</h2>
 
 <p>Total Amount of Cream: 250 grams<br/>
  
@@ -27,7 +27,7 @@ Oil ingredients  : 20% = 50 grams</p><br/>
 
 
 
-<h2 class="section-heading">LIQUID INGREDIENTS</h2>
+<h2 class="section-heading">Liquid ingredients</h2>
 <blockquote>Aloe Vera gel-----30%   = 75 grams<br/>
 Rose water--------10%   = 25 grams<br/>
 Herbal decoction--10%   = 25 grams<br/>
@@ -48,7 +48,7 @@ Preservative------1.5%  = 3.75 grams<br/>
  
  
 
-<h2 class="section-heading">OIL INGREDIENTS</h2> 
+<h2 class="section-heading">Oil ingredients</h2> 
  
 <blockquote>Extra Virgin Olive oil---7%  = 17.5 grams<br/>  
 Beeswax------------------3%   = 7.5 grams<br/>   
@@ -65,7 +65,7 @@ Vitamin-E----------------0.5% = 1.25 grams<br/>
 
 
 
-<h2 class="section-heading">MAKING THE CREAM</h2>
+<h2 class="section-heading">Making the cream</h2>
 
 <p>STEP 1: Melt the beeswax, emulsifier & glyceryl stearate in a double boiler.<br/> 
 STEP 2: Add the olive oil & mix well.<br/> 
