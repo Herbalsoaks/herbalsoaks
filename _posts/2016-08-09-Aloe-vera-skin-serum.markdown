@@ -12,9 +12,9 @@ header-img: "img/post-bg-05.jpg"
 
 
 <a href="#">
-    <img src="{{ site.baseurl }}/img/post-aloe1-image.jpg" alt="">
+    <img src="{{ site.baseurl }}/img/post-aloe1-image.jpg" alt="Aloevera gel">
 </a>
-<span class="caption text-muted">Anti-aging Aloe serum</span>
+<span class="caption text-muted">Aloevera gel</span>
 
 <p>A water based skin serum is light and non-greasy, perfectly suited for everyday use.
 Making a skin serum at home is very simple and has very few ingredients.
@@ -28,7 +28,7 @@ Before making any skincare product at home, make sure that you are not allergic 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-aloe2-image.jpg" alt="">
 </a>
-<span class="caption text-muted">Anti-aging Aloe serum</span>
+<span class="caption text-muted">Rose water</span>
 
 <blockquote>1.Aloe Vera gel<br/>
 2.Hyaluronic acid <br/>
@@ -50,7 +50,7 @@ Before making any skincare product at home, make sure that you are not allergic 
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-aloe3-image.jpg" alt="">
 </a>
-<span class="caption text-muted">Anti-aging Aloe serum</span>
+<span class="caption text-muted">Green tea</span>
 <blockquote>STEP 1: Sterilize all the equipment and storage jars.<br/>
 
 STEP 2: Extract fresh Aloe Vera gel.<br/>
