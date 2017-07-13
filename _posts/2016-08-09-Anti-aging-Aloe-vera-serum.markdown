@@ -8,7 +8,7 @@ header-img: "img/post-bg-05.jpg"
 
 
 
-<h1>Aloevera Serum </h1>
+<h2>Aloevera Serum </h2>
 
 
 <a href="#">
