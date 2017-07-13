@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "How to make Aloe Vera skin serum"
+title:      "Nourishing Aloe Vera skin serum"
 date:       2016-08-09- 12:00:00
 author:     "Herbalsoaks"
 header-img: "img/post-bg-05.jpg"
@@ -8,7 +8,7 @@ header-img: "img/post-bg-05.jpg"
 
 
 
-<h2 class="section-heading">ALOE VERA SERUM </h2><br/>
+<h2 class="section-heading">ALOE VERA SERUM </h2>
 <p>A water based skin serum is light and non-greasy, perfectly suited for everyday use.
 Making a skin serum at home is very simple and has very few ingredients.
 You can use all the ingredients that I use or skip a few or add more according to the needs of your skin.
