@@ -8,7 +8,7 @@ header-img: "img/post-bg-05.jpg"
 
 
 
-<h2 class="section-heading">ALOE VERA SERUM </h2>
+<h2 class="section-heading">Aloevera Serum </h2>
 
 
 <a href="#">
@@ -24,7 +24,7 @@ Before making any skincare product at home, make sure that you are not allergic 
 
 
 
-<h2 class="section-heading">INGREDIENTS NEEDED: </h2>
+<h2 class="section-heading">Ingredients needed: </h2>
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-aloe2-image.jpg" alt="">
 </a>
@@ -46,7 +46,7 @@ Before making any skincare product at home, make sure that you are not allergic 
 
 
 
-<h2 class="section-heading"> MAKING THE SERUM:</h2><br/>
+<h2 class="section-heading"> Making the serum:</h2><br/>
 <a href="#">
     <img src="{{ site.baseurl }}/img/post-aloe3-image.jpg" alt="">
 </a>
